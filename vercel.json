@@ -6,6 +6,7 @@
     { "source": "/(instagram|ig)", "destination": "https://instagram.com/dislick/" },
     { "source": "/(hackernews|hn)", "destination": "https://news.ycombinator.com/favorites?id=dislick" },
 
-    { "source": "/pg", "destination": "https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546" }
+    { "source": "/pg", "destination": "https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546" },
+    { "source": "/romance", "destination": "https://www.youtube.com/watch?v=X2WH8mHJnhM" }
   ]
 }
