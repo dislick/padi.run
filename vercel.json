@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/github", "destination": "https://github.com/dislick" }
+  ]
+}
