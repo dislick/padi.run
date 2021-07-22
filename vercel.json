@@ -2,6 +2,7 @@
   "redirects": [
     { "source": "/", "destination": "https://www.patrickmuff.ch" },
     { "source": "/github", "destination": "https://github.com/dislick" },
-    { "source": "/twitter", "destination": "https://twitter.com/patrickmuff" }
+    { "source": "/twitter", "destination": "https://twitter.com/patrickmuff" },
+    { "source": "/instagram", "destination": "https://instagram.com/dislick/" }
   ]
 }
