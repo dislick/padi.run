@@ -1,5 +1,7 @@
 {
   "redirects": [
-    { "source": "/github", "destination": "https://github.com/dislick" }
+    { "source": "/", "destination": "https://www.patrickmuff.ch" },
+    { "source": "/github", "destination": "https://github.com/dislick" },
+    { "source": "/twitter", "destination": "https://twitter.com/patrickmuff" }
   ]
 }
