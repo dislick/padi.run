@@ -3,6 +3,8 @@
     { "source": "/", "destination": "https://www.patrickmuff.ch" },
     { "source": "/github", "destination": "https://github.com/dislick" },
     { "source": "/twitter", "destination": "https://twitter.com/patrickmuff" },
-    { "source": "/instagram", "destination": "https://instagram.com/dislick/" }
+    { "source": "/instagram", "destination": "https://instagram.com/dislick/" },
+
+    { "source": "/pg", "destination": "https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546" }
   ]
 }
