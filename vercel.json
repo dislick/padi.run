@@ -5,6 +5,7 @@
     { "source": "/(twitter|tw)", "destination": "https://twitter.com/patrickmuff" },
     { "source": "/(instagram|ig)", "destination": "https://instagram.com/dislick/" },
     { "source": "/(hackernews|hn)", "destination": "https://news.ycombinator.com/favorites?id=dislick" },
+    { "source": "/(youtube|yt)", "destination": "https://www.youtube.com/channel/UCzdmLgPEhdzPuLXRLTI4EVQ" },
 
     { "source": "/pg", "destination": "https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546" },
     
